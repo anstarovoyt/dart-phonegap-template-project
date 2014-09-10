@@ -7,7 +7,7 @@ void main() {
     alert("Device ready ${device.uuid}");
   })
   .catchError((ex, st) {
-    alert("error after init device");
+    alert("Error while get device. Please check that Cordova 'device' plugin is installed");
   });
 }
 

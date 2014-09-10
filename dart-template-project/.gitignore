@@ -1,0 +1,8 @@
+#cordova
+platforms
+
+#dart
+build
+
+#dart
+packages/**
