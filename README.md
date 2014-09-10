@@ -22,3 +22,4 @@ Settings for extenal tool task:<br>
 ###### Install 'device' cordova plugin
 
 #### Run 'run phonegap ios' configuration
+Note: for access Cordova API thanks to https://github.com/rikulo/gap
