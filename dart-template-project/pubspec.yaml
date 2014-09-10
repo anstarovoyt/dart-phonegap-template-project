@@ -1,0 +1,9 @@
+name: dart-template-project
+version: 0.0.1
+description: A sample web application
+dependencies:
+  browser: any
+  rikulo_gap: ">=0.6.0 <0.7.0"
+  js: any
+dev_dependencies:
+#  unittest: any
