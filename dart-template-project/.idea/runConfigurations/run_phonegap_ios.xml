@@ -8,8 +8,6 @@
     <option name="target" value="" />
     <RunnerSettings RunnerId="Basic" />
     <ConfigurationWrapper RunnerId="Basic" />
-    <method>
-      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_pub build" />
-    </method>
+    <method />
   </configuration>
 </component>
