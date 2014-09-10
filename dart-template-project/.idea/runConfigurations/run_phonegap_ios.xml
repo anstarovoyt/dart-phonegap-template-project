@@ -10,7 +10,6 @@
     <ConfigurationWrapper RunnerId="Basic" />
     <method>
       <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_pub build" />
-      <option name="PhonegapTask" enabled="true" />
     </method>
   </configuration>
 </component>
